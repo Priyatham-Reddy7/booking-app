@@ -40,4 +40,10 @@
     padding: 10px;
     cursor: pointer;
     font-weight: 500;
+    margin-top: 10px;
+}
+
+.headerBtn:hover{
+    background-color: #fff;
+    color: #003580;
 }
