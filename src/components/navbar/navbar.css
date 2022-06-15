@@ -15,7 +15,14 @@
 }
 
 .logo{
-    font-weight: 500;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    background: -webkit-linear-gradient(#eee, rgb(10, 213, 210));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .navButton{
