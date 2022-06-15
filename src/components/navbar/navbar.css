@@ -19,7 +19,8 @@
     cursor: pointer;
     text-decoration: none;
     color: #fff;
-    font-size: 20px;
+    font-size: 26px;
+    letter-spacing: 1.1px;
     background: -webkit-linear-gradient(#eee, rgb(10, 213, 210));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
