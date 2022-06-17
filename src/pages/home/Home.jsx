@@ -7,6 +7,7 @@ import FeaturedProperties from "../../components/featuredProperties/FeaturedProp
 import MailList from "../../components/mailList/MailList"
 import Lyp from "../../components/lyp/Lyp"
 import Hyperlinks from "../../components/hyperlinks/Hyperlinks"
+import Footer from "../../components/footer/Footer"
 
 const Home = () => {
     return (
@@ -23,6 +24,7 @@ const Home = () => {
             </div>
             <Lyp />
             <Hyperlinks />
+            <Footer />
         </>
     )
 }
