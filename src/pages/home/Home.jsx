@@ -6,6 +6,7 @@ import PropertyList from "../../components/propertyList/PropertyList"
 import FeaturedProperties from "../../components/featuredProperties/FeaturedProperties"
 import MailList from "../../components/mailList/MailList"
 import Lyp from "../../components/lyp/Lyp"
+import Hyperlinks from "../../components/hyperlinks/Hyperlinks"
 
 const Home = () => {
     return (
@@ -21,6 +22,7 @@ const Home = () => {
                 <MailList />
             </div>
             <Lyp />
+            <Hyperlinks />
         </>
     )
 }
