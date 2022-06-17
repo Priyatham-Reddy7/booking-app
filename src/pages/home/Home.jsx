@@ -5,6 +5,7 @@ import Featured from "../../components/featured/Featured"
 import PropertyList from "../../components/propertyList/PropertyList"
 import FeaturedProperties from "../../components/featuredProperties/FeaturedProperties"
 import MailList from "../../components/mailList/MailList"
+import Lyp from "../../components/lyp/Lyp"
 
 const Home = () => {
     return (
@@ -19,6 +20,7 @@ const Home = () => {
                 <FeaturedProperties />
                 <MailList />
             </div>
+            <Lyp />
         </>
     )
 }
