@@ -1,0 +1,36 @@
+.navbar{
+    height: 50px;
+    background-color: #003580;
+    display: flex;
+    justify-content: center;
+}
+
+.navContainer{
+    width: 100%;
+    max-width: 1024px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    font-size: 26px;
+    letter-spacing: 1.1px;
+    background: -webkit-linear-gradient(#eee, rgb(240, 240, 8));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.navButton{
+    margin-left: 20px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #fff;
+    color: #003580;
+    cursor: pointer;
+}
