@@ -18,13 +18,13 @@
 }
 
 .footerCol>a{
-    color: #003580;
+    color: #0071c2;
     text-decoration: none;
     font-size: 14px;
 }
 
 .footerCol>a:hover{
-    text-decoration: underline;
+    color: #bc5b01;
 }
 
 .copyright{
